@@ -25,14 +25,15 @@ Los expertos difieren si llegar a la 3ra sera riesgoso o no para la humanidad
 CICLO DE VIDA DE APRENDIZAJE DE MAQUINA
 # Identificar el Problema 
 Determinar el objetivo
-## Recolectar Datos
+# Recolectar Datos
 Relevantes, precisos, representativos
-### Preparacion de Datos
+# Preparacion de Datos
 Limpiarlos, completar faltantes, 
-#### Ingenieria de modelos
+# Ingenieria de modelos
 Seleccionar algortitmos
-##### Evaluar modelos
+# Evaluar modelos
 Mirar precision y exactitud
-###### Despliegue o Implementacion
-####### mantenimiento y actualizacion
-Corregir errores y fallas del modelo
+# Despliegue o Implementacion
+
+# mantenimiento y actualizacion
+Corregir errores y fallas del modelo.

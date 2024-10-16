@@ -36,7 +36,7 @@ Seleccionar algortitmos
 
 ### 5. Evaluar modelos
 Mirar precision y exactitud
-### Despliegue o Implementacion
+### 6. Despliegue o Implementacion
 
-### 6. mantenimiento y actualizacion
+### 7. mantenimiento y actualizacion
 Corregir errores y fallas del modelo.

@@ -33,10 +33,9 @@ Relevantes, precisos, representativos
 Limpiarlos, completar faltantes, 
 ### 4. Ingenieria de modelos
 Seleccionar algortitmos
-
 ### 5. Evaluar modelos
 Mirar precision y exactitud
 ### 6. Despliegue o Implementacion
-
+Ponerlo a producir
 ### 7. mantenimiento y actualizacion
-Corregir errores y fallas del modelo.
+Corregir errores y fallas del modelo o actualizarlo.

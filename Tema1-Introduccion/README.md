@@ -21,3 +21,18 @@ Cuando la IA supere la hna
 Por ahora vamos en la 1ra Etapa, estamos entrando a la 2da y se teme q lleguemos a la 3ra pronto.
 
 Los expertos difieren si llegar a la 3ra sera riesgoso o no para la humanidad
+
+CICLO DE VIDA DE APRENDIZAJE DE MAQUINA
+# Identificar el Problema 
+Determinar el objetivo
+## Recolectar Datos
+Relevantes, precisos, representativos
+### Preparacion de Datos
+Limpiarlos, completar faltantes, 
+#### Ingenieria de modelos
+Seleccionar algortitmos
+##### Evaluar modelos
+Mirar precision y exactitud
+###### Despliegue o Implementacion
+####### mantenimiento y actualizacion
+Corregir errores y fallas del modelo

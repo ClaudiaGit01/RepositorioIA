@@ -23,19 +23,3 @@ Por ahora vamos en la 1ra Etapa, estamos entrando a la 2da y se teme q lleguemos
 
 Los expertos difieren si llegar a la 3ra sera riesgoso o no para la humanidad
 
-**CICLO DE VIDA DE APRENDIZAJE DE MAQUINA**
-
-### 1. Identificar el Problema 
-Determinar el objetivo
-### 2. Recolectar Datos
-Relevantes, precisos, representativos
-### 3. Preparacion de Datos
-Limpiarlos, completar faltantes, 
-### 4. Ingenieria de modelos
-Seleccionar algortitmos
-### 5. Evaluar modelos
-Mirar precision y exactitud
-### 6. Despliegue o Implementacion
-Ponerlo a producir
-### 7. mantenimiento y actualizacion
-Corregir errores y fallas del modelo o actualizarlo.

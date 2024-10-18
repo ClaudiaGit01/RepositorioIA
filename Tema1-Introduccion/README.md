@@ -37,8 +37,7 @@ Seleccionar algoritmos, determinar características y realizar ajustes de hiperp
 Mirar precision y exactitud
 6. Despliegue o Implementacion
 Ponerlo a producir = pasar del dllo a la implementacion
-7. mantenimiento y actualizacion
-   
+7. mantenimiento y actualizacion   
 Corregir errores y fallas del modelo y/o actualizarlo.
 
 
